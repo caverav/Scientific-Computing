@@ -1,0 +1,11 @@
+numpy
+matplotlib
+sympy
+scipy
+pandas
+ipywidgets
+colorama
+sklearn
+IPython
+mpl_toolkits.axes_grid1
+bitstring
